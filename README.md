@@ -1,5 +1,9 @@
 # WID 7 - Hausaufgabe
 
+## UPDATE: Lösung hinzugefügt
+
+`src/solution`
+
 ## Getting started
 
 ### 1.Forken
